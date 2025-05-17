@@ -1,0 +1,10 @@
+
+
+.form-control-login:focus{
+    border-color:#e01123;
+}
+.carousel-inner {
+    .item>img {
+        max-height: 30em;
+    }
+}
